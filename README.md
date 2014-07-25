@@ -1,5 +1,6 @@
-Forcecraft
-==========
+SAPcraft
+========
+forked from [Forcecraft](https://github.com/metadaddy-sfdc/Forcecraft/issues) on July 25 2014
 
 This Minecraft mod visualizes [Salesforce](https://www.salesforce.com/crm/) Accounts, Opportunities and Contacts. Forcecraft adds a new dimension to Minecraft, where each Account in your Salesforce environment (aka 'org') is represented by a building, comprising a level for each Opportunity associated with that Account.
 
