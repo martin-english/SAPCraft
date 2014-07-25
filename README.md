@@ -2,6 +2,8 @@ SAPcraft
 ========
 forked from [Forcecraft](https://github.com/metadaddy-sfdc/Forcecraft/issues) on July 25 2014
 
+The datasource is intended to be an [SAP IDES](http://service.sap.com/ides) system running in [AWS](http://aws.amazon.com/)
+
 This Minecraft mod visualizes [Salesforce](https://www.salesforce.com/crm/) Accounts, Opportunities and Contacts. Forcecraft adds a new dimension to Minecraft, where each Account in your Salesforce environment (aka 'org') is represented by a building, comprising a level for each Opportunity associated with that Account.
 
 ![Forcecraft](http://metadaddy-sfdc.github.io/Forcecraft/Forcecraft.png)
